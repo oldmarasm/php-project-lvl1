@@ -1,0 +1,15 @@
+{
+    "name": "hexlet/code",
+    "authors": [
+        {
+            "name": "oldmarasm",
+            "email": "oldmarasm@yandex.ru"
+        }
+    ],
+    "bin": [
+        "bin/brain-games"
+    ],
+    "require": {}
+
+    
+}
